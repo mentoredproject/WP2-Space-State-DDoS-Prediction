@@ -1,0 +1,1 @@
+{"sequence_length": 120, "d_model": 32, "d_state": 32, "num_layers": 2, "learning_rate": 0.00026673884239545074, "epochs": 75, "batch_size": 32, "dropout_rate": 0.45851162494798997, "weight_decay": 0.0006400698469644886, "max_grad_norm": 5.0}
